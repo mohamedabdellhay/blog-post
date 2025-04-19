@@ -21,7 +21,7 @@ This project is built with the **MERN Stack** (MongoDB, Express.js, React, Node.
 ## 📁 Project Structure
 
 ```bash
-.
+
 ├── backend             # Express API with MongoDB and JWT Auth
 │   ├── models          # Mongoose schemas
 │   ├── routes          # Express route handlers
@@ -32,9 +32,8 @@ This project is built with the **MERN Stack** (MongoDB, Express.js, React, Node.
 │   └── services        # API calls and private route handling
 ├── docker-compose.yml  # Docker orchestration for frontend & backend
 └── README.md           # This file
-```
 
----
+```
 
 ## 🛠️ Getting Started
 
