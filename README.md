@@ -81,3 +81,5 @@ Developed with ❤️ by [Mohamed Abdellhay](https://github.com/mohamedabdellhay
 ## 📜 License
 
 This project is licensed under the MIT License – feel free to use and adapt it!
+
+---
